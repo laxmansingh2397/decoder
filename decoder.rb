@@ -8,8 +8,8 @@ KEY = {
   7 => 'G',
   8 => 'H',
   9 => '*',
-  10 => 'J',
 }
+# THese changes i have done
 
 # Define a method that takes an array of numbers to decode.
 def decode(numbers)
