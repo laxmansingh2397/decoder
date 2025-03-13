@@ -8,7 +8,8 @@ KEY = {
   7 => 'G',
   8 => 'H',
   9 => '*',
-  10 => 'J',
+  10 => 'J'
+  11 => 'K',
 }
 # THese changes i have done
 
