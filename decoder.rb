@@ -1,6 +1,16 @@
 KEY = {
+  1 => 'A'
+  2 => 'A'
+  3 => 'C'
+  4 => 'D'
+  5 => 'E'
+  6 => 'F'
+  7 => 'G'
+  8 => 'H'
+  9 => 'I'
+  26 => 'Z'
 }
-
+  
 # Define a method that takes an array of numbers to decode.
 def decode(numbers)
   text = ""
